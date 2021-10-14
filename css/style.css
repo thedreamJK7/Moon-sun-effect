@@ -66,7 +66,8 @@
 
 .cloud1 {
     position: absolute;
-    max-width: 600px;
+    max-width: 400px;
+    top: 0;
     left: 0;
     z-index: 10;
     animation: animateCloud 50s linear infinite;
@@ -75,6 +76,7 @@
 .cloud2 {
     position: absolute;
     max-width: 600px;
+    top: 0;
     left: 0;
     z-index: 10;
     animation: animateCloud 35s linear infinite;
@@ -83,6 +85,7 @@
 .cloud3 {
     position: absolute;
     max-width: 600px;
+    top: 0;
     left: 0;
     z-index: 10;
     animation: animateCloud 80s linear infinite;
@@ -91,7 +94,7 @@
 .cloud4 {
     position: absolute;
     max-width: 200px;
-    top: 150px;
+    top: 0px;
     left: 0;
     z-index: 10;
     animation: animateCloud 70s linear infinite;
@@ -101,7 +104,7 @@
 .cloud5 {
     position: absolute;
     max-width: 500px;
-    top: 100px;
+    top: 0px;
     left: 0;
     z-index: 10;
     animation: animateCloud 40s linear infinite;
@@ -111,7 +114,7 @@
 .cloud6 {
     position: absolute;
     max-width: 400px;
-    top: 75px;
+    top: 0px;
     left: 0;
     z-index: 10;
     animation: animateCloud 30s linear infinite;

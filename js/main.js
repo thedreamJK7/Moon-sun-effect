@@ -1,3 +1,8 @@
+function toggleScene() {
+    let button = document.querySelector('.scene');
+    button.classList.toggle('active');
+}
+
 function stars() {
     let count = 500, i = 1;
     while(i < count){

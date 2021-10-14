@@ -91,7 +91,7 @@
 .cloud4 {
     position: absolute;
     max-width: 200px;
-    top: 200px;
+    top: 150px;
     left: 0;
     z-index: 10;
     animation: animateCloud 70s linear infinite;
@@ -101,7 +101,7 @@
 .cloud5 {
     position: absolute;
     max-width: 500px;
-    top: 150px;
+    top: 100px;
     left: 0;
     z-index: 10;
     animation: animateCloud 40s linear infinite;

@@ -1,3 +1,4 @@
+alert("CLICK THE MOON");
 function toggleScene() {
     let button = document.querySelector('.scene');
     button.classList.toggle('active');
